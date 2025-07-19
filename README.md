@@ -16,7 +16,7 @@ Dự án này xây dựng một chatbot Hỏi-Đáp (Q&A) chuyên về lĩnh v�
 * **Ngôn ngữ:** Python 3
 * **Giao diện Web:** Streamlit
 * **Cơ sở dữ liệu Vector:** Pinecone
-* **Mô hình ngôn ngữ (LLM):** Google Gemini 1.5 Flash
+* **Mô hình ngôn ngữ (LLM):** Google Gemini 2.5 Flash
 * **Mô hình Embedding:** `all-MiniLM-L6-v2` (từ Sentence-Transformers)
 * **Xử lý dữ liệu:** Pandas, LangChain
 
