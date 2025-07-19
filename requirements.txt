@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+sentence-transformers
+pinecone-client
+langchain-text-splitters
+tqdm
+streamlit
+google-generativeai

@@ -1,0 +1,11 @@
+# Environment variables - Bỏ qua file chứa API key
+.env
+
+# Python cache files - Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+
+# IDE/OS specific files - Bỏ qua các file hệ thống
+.vscode/
+.idea/
+.DS_Store
