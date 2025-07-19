@@ -7,7 +7,7 @@ Dự án này xây dựng một chatbot Hỏi-Đáp (Q&A) chuyên về lĩnh v�
 * **Giao diện Chat trực quan:** Xây dựng bằng Streamlit, cung cấp trải nghiệm hỏi-đáp thân thiện.
 * **Truy vấn nhiều công ty:** Tự động phát hiện và so sánh thông tin từ nhiều mã chứng khoán (ticker) trong cùng một câu hỏi.
 * **Tìm kiếm ngữ nghĩa tốc độ cao:** Sử dụng Pinecone để lưu trữ và truy xuất nhanh các đoạn văn bản liên quan nhất.
-* **Tổng hợp câu trả lời thông minh:** Dùng Google Gemini 1.5 Flash để đọc hiểu ngữ cảnh và tạo ra câu trả lời mạch lạc.
+* **Tổng hợp câu trả lời thông minh:** Dùng Google Gemini 2.5 Flash để đọc hiểu ngữ cảnh và tạo ra câu trả lời mạch lạc.
 * **Phản hồi Streaming:** Hiển thị câu trả lời ngay lập tức, tương tự như các chatbot hiện đại.
 * **Hiển thị nguồn:** Cho phép người dùng xem các đoạn văn bản gốc đã được sử dụng để tạo ra câu trả lời, tăng tính minh bạch.
 
